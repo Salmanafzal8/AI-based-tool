@@ -175,7 +175,7 @@ export function ResultsDisplay({
       <div className="flex flex-col lg:flex-row items-center justify-between gap-4">
         <div className="text-center lg:text-left">
           <h2 className="text-3xl font-bold text-gray-900 mb-2">
-            LadiEval AI Results
+            X AI Results
           </h2>
           <p className="text-gray-600 text-lg">
             Your document has been analyzed across {completedResults.length}{" "}
@@ -188,7 +188,7 @@ export function ResultsDisplay({
           className="px-6 py-3 bg-[#3C366E] hover:bg-[#4A4378] text-white shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
         >
           <Download className="h-5 w-5 mr-2" />
-          <span>Download LadiEval Report</span>
+          <span>Download X AI Report</span>
         </Button>
       </div>
 
@@ -264,7 +264,7 @@ export function ResultsDisplay({
                   All evaluations completed successfully!
                 </h3>
                 <p className="text-green-600">
-                  Your document has been thoroughly analyzed by LadiEval AI.
+                  Your document has been thoroughly analyzed by X AI.
                   Download the complete report for detailed insights.
                 </p>
               </div>

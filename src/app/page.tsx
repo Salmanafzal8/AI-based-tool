@@ -164,7 +164,7 @@ export default function Home() {
                 <Brain className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">LADI Technology</h1>
+                <h1 className="text-xl font-bold text-white">X Technology</h1>
                 {/* <p className="text-sm text-white/80">Intelligent Document Analysis by Ladi Technology</p> */}
               </div>
             </div>
@@ -196,11 +196,11 @@ export default function Home() {
             <div className="text-center animate-fade-in">
               <div className="company-gradient rounded-2xl p-8 text-white company-shadow mb-8">
                 <h1 className="text-4xl font-bold mb-4">
-                  Welcome to LADI Technology
+                  Welcome to X Technology
                 </h1>
                 <p className="text-xl text-white/90 max-w-3xl mx-auto leading-relaxed">
                   Transform your manuscripts with AI-powered evaluation. Get comprehensive feedback across six key criteria 
-                  and unlock your document's full potential with Ladi Technology's advanced analysis.
+                  and unlock your document's full potential with X Technology's advanced analysis.
                 </p>
               </div>
               
@@ -218,7 +218,7 @@ export default function Home() {
                     <Brain className="h-8 w-8 text-white" />
                   </div>
                   <h3 className="text-xl font-bold text-gray-800 mb-2">AI Analysis</h3>
-                  <p className="text-gray-600">Advanced evaluation using Ladi Technology's GPT-4 integration</p>
+                  <p className="text-gray-600">Advanced evaluation using X Technology's GPT-4 integration</p>
                 </div>
                 
                 <div className="summary-card card-hover animate-slide-up" style={{animationDelay: '0.3s'}}>
@@ -251,7 +251,7 @@ export default function Home() {
                 className="px-8 py-4 text-lg bg-[#3C366E] hover:bg-[#4A4378] text-white shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
               >
                 <Brain className="h-5 w-5 mr-2" />
-                Start LadiEval AI Analysis
+                Start X AI Analysis
               </Button>
             </div>
           )}
@@ -293,7 +293,7 @@ export default function Home() {
       <footer className="bg-[#3C366E] text-white flex-shrink-0 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center">
-            <p className="text-white/80">&copy; 2024 LadiEval AI by Ladi Technology. All rights reserved.</p>
+            <p className="text-white/80">&copy; 2024  AI by X Technology. All rights reserved.</p>
           </div>
         </div>
       </footer>
