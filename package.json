@@ -9,32 +9,32 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.4.5",
     "@radix-ui/react-progress": "^1.0.3",
     "@radix-ui/react-toast": "^1.1.5",
-    "lucide-react": "^0.263.1",
+    "axios": "^1.6.7",
+    "chart.js": "^4.4.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "tailwind-merge": "^2.2.1",
-    "react-dropzone": "^14.2.3",
-    "axios": "^1.6.7",
-    "jspdf": "^2.5.1",
     "html2canvas": "^1.4.1",
-    "chart.js": "^4.4.0",
-    "react-chartjs-2": "^5.2.0"
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.539.0",
+    "next": "15.4.5",
+    "react": "19.1.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "19.1.0",
+    "react-dropzone": "^14.2.3",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "tailwindcss": "^3.4.0",
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32",
     "eslint": "^9",
     "eslint-config-next": "15.4.5",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
   }
 }
