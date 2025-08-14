@@ -200,7 +200,7 @@ export default function Home() {
                 </h1>
                 <p className="text-xl text-white/90 max-w-3xl mx-auto leading-relaxed">
                   Transform your manuscripts with AI-powered evaluation. Get comprehensive feedback across six key criteria 
-                  and unlock your document's full potential with X Technology's advanced analysis.
+                  and unlock your documents full potential with X Technologys advanced analysis.
                 </p>
               </div>
               
